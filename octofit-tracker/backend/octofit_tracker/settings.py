@@ -26,6 +26,7 @@ SECRET_KEY = "django-insecure-)@dkjf-g0)y06i_g1qmcb8hubscm)o)qeu7(j=bcp8&46$plqp
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS += ['friendly-broccoli-pj9997466j9927pjx-8000.app.github.dev', 'localhost']
 
 
 # Application definition
